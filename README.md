@@ -1,1 +1,1 @@
-# Python_simple_projects
+# Python_scripts
